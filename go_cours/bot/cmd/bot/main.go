@@ -5,8 +5,8 @@ import (
 	"os"
 
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api"
-	"github.com/zelka-git/GoSelfStudy/tree/master/go_cours/bot/internal/app/commands"
-	"github.com/zelka-git/GoSelfStudy/tree/master/go_cours/bot/internal/service/product"
+	"github.com/zelka-git/GoSelfStudy/go_cours/bot/internal/app/commands"
+	"github.com/zelka-git/GoSelfStudy/go_cours/bot/internal/service/product"
 	"github.com/joho/godotenv"
 )
 
